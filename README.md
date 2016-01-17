@@ -1,1 +1,1 @@
-http://the-creative-tester.github.io/REST-API-Testing/
+http://the-creative-tester.github.io/JavaScript-REST-API-Testing/
